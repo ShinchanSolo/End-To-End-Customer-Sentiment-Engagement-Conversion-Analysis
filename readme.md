@@ -35,29 +35,29 @@ The objective is to identify **conversion bottlenecks**, **engagement inefficien
 
 ---
 ## Business Problem
-![D:\marketing_360_analysis\dashboard images\image_5.png](<dashboard images\image_5.png>)
+![alt text](<dashboard_images\image_5.png>)
 
-![alt text](<dashboard images\image_6.png>)
+![alt text](<dashboard_images\image_6.png>)
 
-![alt text](<dashboard images\image_7.png>)
+![alt text](<dashboard_images\image_7.png>)
 
 ---
 ## Key Analysis & Findings 
 
-![alt text](<dashboard images\image_8.png>)
+![alt text](<dashboard_images\image_8.png>)
 
-![alt text](<dashboard images\image_9.png>)
+![alt text](<dashboard_images\image_9.png>)
 
-![alt text](<dashboard images\image_10.png>)
+![alt text](<dashboard_images\image_10.png>)
 
-![alt text](<dashboard images\image_11.png>)
+![alt text](<dashboard_images\image_11.png>)
 
 
 
 ---
 ## Business Recommendations
 
-![alt text](<dashboard images\image_12.png>)
+![alt text](<dashboard_images\image_12.png>)
 
 
 
