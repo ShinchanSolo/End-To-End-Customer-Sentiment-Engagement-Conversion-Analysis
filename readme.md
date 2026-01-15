@@ -80,7 +80,9 @@ The objective is to identify **conversion bottlenecks**, **engagement inefficien
 ```
 MARKETING_360_ANALYSIS/
 │
-├── data/                         # Raw and intermediate datasets
+├── dashboard/                         # Raw and intermediate datasets
+│── dashboard_images/
+│── docs
 │
 ├── scripts/
 │   ├── bronze/
